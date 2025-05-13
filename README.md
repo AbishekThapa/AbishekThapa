@@ -22,7 +22,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I can turn a messy spreadsheet into a clean, query-ready dataset faster than you can finish your coffee ☕.
+⚡ Fun fact: I can turn a messy spreadsheet into a clean using Microsoft Excel Power Query.
 
 ---
 
